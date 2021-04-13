@@ -1,0 +1,7 @@
+C:\Users\Felhasználó\source\repos\Mukorcsolya\Mukorcsolya\bin\Debug\Mukorcsolya.exe.config
+C:\Users\Felhasználó\source\repos\Mukorcsolya\Mukorcsolya\bin\Debug\Mukorcsolya.exe
+C:\Users\Felhasználó\source\repos\Mukorcsolya\Mukorcsolya\bin\Debug\Mukorcsolya.pdb
+C:\Users\Felhasználó\source\repos\Mukorcsolya\Mukorcsolya\obj\Debug\Mukorcsolya.csprojAssemblyReference.cache
+C:\Users\Felhasználó\source\repos\Mukorcsolya\Mukorcsolya\obj\Debug\Mukorcsolya.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\source\repos\Mukorcsolya\Mukorcsolya\obj\Debug\Mukorcsolya.exe
+C:\Users\Felhasználó\source\repos\Mukorcsolya\Mukorcsolya\obj\Debug\Mukorcsolya.pdb
